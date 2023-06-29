@@ -2,7 +2,9 @@
 A simple Kalman filter library for 1d usage
 
 # Installation
+only works if u build on ur own ide
 
+copy kalman
 in the **build.gradle** file, make sure to include the mavenLocal() repository as a dependency repository: <br />
 <img width="114" alt="image" src="https://github.com/IKKNIGHT/KalmanFilter/assets/76535471/96705caf-c755-4920-917c-e604a4269b14">
 
@@ -22,6 +24,10 @@ to import this to your class use the following...
 
 import org.isaaq.kalmanfilter.*;
 
+
+# Installation way 2
+
+copy KalmanFilter.java to your own repository
 
 
 
