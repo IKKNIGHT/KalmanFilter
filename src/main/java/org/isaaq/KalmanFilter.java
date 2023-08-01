@@ -46,6 +46,7 @@ public class KalmanFilter {
      *
      */
     public static double calculateK(double p, double R) {
+
         return p / (p + R);
     }
 
