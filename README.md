@@ -22,6 +22,9 @@ to import this to your class use the following...
 
 import org.isaaq.kalmanfilter.*;
 
+## OR
+
+copy paste the kalmanfilter.java class in your own project
 
 
 
